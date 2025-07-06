@@ -47,8 +47,6 @@
 ---
 
 ## 📫 Contact
-
-- GitHub: [github.com/sasaorasanin](https://github.com/sasaorasanin)
 - Email: [drsasaorasanin@gmail.com](mailto:drsasaorasanin@gmail.com)
 
 ---
