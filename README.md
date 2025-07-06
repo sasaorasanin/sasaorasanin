@@ -1,8 +1,5 @@
 # Sasa Orasanin — Software Engineer
 
-👨‍💻 Experienced Software Engineer and Architect focused on building **secure**, **scalable**, and **high-performance** software solutions.  
-💡 Passionate about **modern technologies**, **modular design**, and **open-source contributions**.
-
 ---
 
 ## 🚀 Tech Stack
