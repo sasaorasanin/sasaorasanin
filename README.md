@@ -20,12 +20,12 @@
 
 ## 🧩 Featured Projects
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| [filament-unlayer](https://github.com/sasaorasanin/filament-unlayer) | Filament form field wrapper for Unlayer editor | Laravel, Filament |
-| [laravel-page-statistics](https://github.com/sasaorasanin/laravel-page-statistics) | Page view tracking for Laravel apps | Laravel |
-| [slack-api-php](https://github.com/sasaorasanin/slack-api-php) | PHP Slack API client | PHP |
-| [slack-api-laravel](https://github.com/sasaorasanin/slack-api-laravel) | Laravel integration for Slack API | Laravel, PHP |
+| Project | Description | Technologies | Downloads |
+|----------|-------------|--------------|-----------|
+| [filament-unlayer](https://github.com/sasaorasanin/filament-unlayer) | Filament form field wrapper for Unlayer editor | Laravel, Filament | [![Total Downloads](https://img.shields.io/packagist/dt/InfinityXTech/filament-unlayer.svg?style=flat-square)](https://packagist.org/packages/InfinityXTech/filament-unlayer) |
+| [laravel-page-statistics](https://github.com/sasaorasanin/laravel-page-statistics) | Page view tracking for Laravel apps | Laravel | [![Total Downloads](https://img.shields.io/packagist/dt/InfinityXTech/laravel-page-statistics.svg?style=flat-square)](https://packagist.org/packages/InfinityXTech/laravel-page-statistics) |
+| [slack-api-php](https://github.com/sasaorasanin/slack-api-php) | PHP Slack API client | PHP | [![Total Downloads](https://img.shields.io/packagist/dt/InfinityXTech/slack-api-php.svg?style=flat-square)](https://packagist.org/packages/InfinityXTech/slack-api-php) |
+| [slack-api-laravel](https://github.com/sasaorasanin/slack-api-laravel) | Laravel integration for Slack API | Laravel, PHP | [![Total Downloads](https://img.shields.io/packagist/dt/InfinityXTech/slack-api-laravel.svg?style=flat-square)](https://packagist.org/packages/InfinityXTech/slack-api-laravel) |
 
 ---
 
