@@ -25,10 +25,10 @@
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| [filament-unlayer](https://github.com/sasaorasanin/filament-unlayer) | Filament form field wrapper for Unlayer editor | Laravel, Filament |
-| [laravel-page-statistics](https://github.com/sasaorasanin/laravel-page-statistics) | Page view tracking for Laravel apps | Laravel |
-| [slack-api-php](https://github.com/sasaorasanin/slack-api-php) | PHP Slack API client | PHP |
-| [slack-api-laravel](https://github.com/sasaorasanin/slack-api-laravel) | Laravel integration for Slack API | Laravel, PHP |
+| [filament-unlayer](https://sasaorasanin.github.io/projects/filament-unlayer/1.0/getting-started) | Filament form field wrapper for Unlayer editor | Laravel, Filament |
+| [laravel-page-statistics](https://sasaorasanin.github.io/projects/laravel-page-statistics/1.0/getting-started) | Page view tracking for Laravel apps | Laravel |
+| [slack-api-php](https://sasaorasanin.github.io/projects/slack-api-php/1.0/getting-started) | PHP Slack API client | PHP |
+| [slack-api-laravel](https://sasaorasanin.github.io/projects/slack-api-laravel/1.0/getting-started) | Laravel integration for Slack API | Laravel, PHP |
 
 ---
 
