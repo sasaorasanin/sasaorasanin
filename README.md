@@ -27,6 +27,7 @@
 | [slack-api-php](https://github.com/sasaorasanin/slack-api-php) | PHP Slack API client | PHP | [![Total Downloads](https://img.shields.io/packagist/dt/InfinityXTech/slack-api-php.svg?style=flat-square)](https://packagist.org/packages/InfinityXTech/slack-api-php) |
 | [slack-api-laravel](https://github.com/sasaorasanin/slack-api-laravel) | Laravel integration for Slack API | Laravel, PHP | [![Total Downloads](https://img.shields.io/packagist/dt/InfinityXTech/slack-api-laravel.svg?style=flat-square)](https://packagist.org/packages/InfinityXTech/slack-api-laravel) |
 | [filament-world-map-widget](https://github.com/sasaorasanin/filament-world-map-widget) | Filament World Map Widget | Laravel, Filament | [![Total Downloads](https://img.shields.io/packagist/dt/InfinityXTech/filament-world-map-widget.svg?style=flat-square)](https://packagist.org/packages/InfinityXTech/filament-world-map-widget) |
+| [filament-api-docs](https://github.com/zpmlabs/filament-api-docs) | Filament API Docs | Laravel, Filament | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/filament-api-docs-builder.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/filament-api-docs-builder) |
 
 ---
 
