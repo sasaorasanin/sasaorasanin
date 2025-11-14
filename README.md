@@ -29,6 +29,8 @@
 | [filament-world-map-widget](https://github.com/sasaorasanin/filament-world-map-widget) | Filament World Map Widget | Laravel, Filament | [![Total Downloads](https://img.shields.io/packagist/dt/InfinityXTech/filament-world-map-widget.svg?style=flat-square)](https://packagist.org/packages/InfinityXTech/filament-world-map-widget) |
 | [filament-api-docs](https://github.com/zpmlabs/filament-api-docs) | Filament API Docs | Laravel, Filament | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/filament-api-docs-builder.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/filament-api-docs-builder) |
 | [godaddy-php-sdk](https://github.com/sasaorasanin/godaddy-php-sdk) | Godaddy PHP SDK | PHP | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/godaddy-php-sdk.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/godaddy-php-sdk) |
+| [undraw-php](https://github.com/zpmlabs/undraw-php) | Undraw PHP | PHP, Laravel | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/undraw-php.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/undraw-php) |
+| [filament-undraw-illustrations-select](https://github.com/zpmlabs/filament-undraw-illustrations-select) | Filament Undraw Select | PHP, Filament | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/filament-undraw-illustrations-select.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/filament-undraw-illustrations-select) |
 
 ---
 
