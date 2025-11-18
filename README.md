@@ -32,6 +32,7 @@
 | [undraw-php](https://github.com/zpmlabs/undraw-php) | Undraw PHP | PHP, Laravel | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/undraw-php.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/undraw-php) |
 | [filament-undraw-illustrations-select](https://github.com/zpmlabs/filament-undraw-illustrations-select) | Filament Undraw Select | PHP, Filament | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/filament-undraw.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/filament-undraw) |
 | [php-ssh-management](https://github.com/zpmlabs/php-ssh-management) | PHP SSH Manager | PHP | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/ssh-manager.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/ssh-manager) |
+| [php-cron-manager](https://github.com/zpmlabs/php-cron-manager) | PHP Cron Manager | PHP | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/php-cron-manager.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/php-cron-manager) |
 
 ---
 
