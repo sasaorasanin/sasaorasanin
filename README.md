@@ -31,6 +31,7 @@
 | [godaddy-php-sdk](https://github.com/sasaorasanin/godaddy-php-sdk) | Godaddy PHP SDK | PHP | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/godaddy-php-sdk.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/godaddy-php-sdk) |
 | [undraw-php](https://github.com/zpmlabs/undraw-php) | Undraw PHP | PHP, Laravel | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/undraw-php.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/undraw-php) |
 | [filament-undraw-illustrations-select](https://github.com/zpmlabs/filament-undraw-illustrations-select) | Filament Undraw Select | PHP, Filament | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/filament-undraw.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/filament-undraw) |
+| [php-ssh-management](https://github.com/zpmlabs/php-ssh-management) | PHP SSH Manager | PHP | [![Total Downloads](https://img.shields.io/packagist/dt/ZPMLabs/ssh-manager.svg?style=flat-square)](https://packagist.org/packages/ZPMLabs/ssh-manager) |
 
 ---
 
